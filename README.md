@@ -58,14 +58,17 @@
 
 ---
 
+
+
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhavyaray&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bhavya-Ray&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyaray&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya-Ray&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
+
 
 
 ---
