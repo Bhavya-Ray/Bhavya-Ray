@@ -60,21 +60,22 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=bhavyaray&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyaray&theme=tokyonight" />
 </p>
+
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="https://www.linkedin.com/in/bhavya-ray-669977222/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://github.com/YOURUSERNAME" target="blank">
+<a href="https://github.com/Bhavya-Ray" target="blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
