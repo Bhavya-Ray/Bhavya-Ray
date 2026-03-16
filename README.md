@@ -10,6 +10,7 @@
 - 🤖 Machine Learning Intern at NIC (ML Models + NLP)
 - 💬 Ask me about **Data Analytics, SQL, ML, Dashboards, BI Systems**
 - 📫 Reach me at: **bhavyaray1234@gmail.com**
+- 🌐 Portfolio: https://portfolio-da1fyc9qz-bhavya-rays-projects.vercel.app/
 
 ---
 
