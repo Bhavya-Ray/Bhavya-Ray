@@ -10,7 +10,7 @@
 - 🤖 Machine Learning Intern at NIC (ML Models + NLP)
 - 💬 Ask me about **Data Analytics, SQL, ML, Dashboards, BI Systems**
 - 📫 Reach me at: **bhavyaray1234@gmail.com**
-- 🌐 Portfolio: https://portfolio-da1fyc9qz-bhavya-rays-projects.vercel.app/
+- 🌐 Portfolio: https://portfolio-1-inky-three.vercel.app/
 
 ---
 
@@ -69,7 +69,13 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya-Ray&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
+## 💻 Most Used Languages
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-Ray&layout=compact&theme=tokyonight&hide_border=true&card_width=495"
+  />
+</p>
 
 
 ---
